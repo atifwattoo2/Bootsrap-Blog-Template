@@ -1,0 +1,140 @@
+
+h1{
+    margin-top: 30px;
+    font-size: 3rem;
+    font-weight: bold;
+    color: dimgray;
+}
+.navbarcolor:hover{
+    color: palevioletred;
+}
+.para1{
+    color: gray;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.fromMarjin{
+    margin-top: 30px;
+}
+.navbar-brand{
+    color: dimgray;
+    
+    font-weight: bold;
+    margin-top: 15px;
+    margin-left: 40px;
+}
+.navbar-brand:hover{
+    font-weight: bold;
+   
+    color: palevioletred;
+}
+.menu-text{
+
+    color: dimgray;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.list-group-item{
+    
+    margin-left: 20px;
+    margin-bottom: 10px;
+    font-size: large;
+}
+.list-group-item:hover{
+    color: palevioletred;
+}
+.paragraph{
+
+    color: dimgray;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: 1px underline dotted;
+  
+}
+.paragraph:hover{
+
+    color: palevioletred;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+.text-muted{
+    text-align: center;
+
+}
+.offcanvas-header:hover{
+    color: palevioletred;
+}
+.link1{
+   
+    color: gray;
+    text-align: center;
+    font-weight: 200rem;
+    text-decoration: 1px underline dotted;
+    padding-bottom: 20px;
+    
+}
+.my{
+   
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+
+}
+.link1:hover{
+    color: palevioletred;
+}
+.form-control{
+    border: none;
+    
+    appearance: none;
+    background-color: #f1eeee;
+    border-radius: 0px;
+    outline: 0px;
+    margin-bottom: 40px;
+    border-bottom: 1px solid gray;
+    
+}
+.form-control:hover{
+    border: none;
+    appearance: none;
+    border-radius: 0px;
+    outline: 0px;
+    margin-bottom: 40px;
+    border-bottom: 1px solid palevioletred;
+    
+}
+.form-control::selection{
+    border: none;
+    background-color: transparent;
+}
+.contact{
+    color: dimgray;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+.bottomBg{
+    
+    background-color: rgb(241, 238, 238);
+}
+
+
+.btn btn-secondary:hover{
+    background-color: palevioletred;
+    color: black;
+}
+.FOLLOW{
+    color: dimgray;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.list-group-item{
+    border: none;
+    background-color: inherit;
+}
+.navbar-toggler fixed-top{
+    margin-top: 20px;
+    
+    margin-right: 20px;
+}
